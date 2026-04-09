@@ -1,0 +1,7 @@
+{
+  "photo_size_threshold_mb": 20,
+  "video_size_threshold_mb": 300,
+  "photo_album": "大图片管理",
+  "video_album": "大视频管理",
+  "cron_schedule": "0 2 * * *"
+}
